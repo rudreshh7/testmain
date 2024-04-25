@@ -1,0 +1,19 @@
+.navbar{
+  display: block;
+}
+.navbar-container{
+  display: flex;
+  list-style-type: none;
+  gap: 2rem;
+  justify-content: center;
+  
+  
+}
+.navbar-container li a{
+  color: #526D82;
+  text-decoration: none;
+
+}
+
+
+
